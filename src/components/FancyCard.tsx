@@ -34,6 +34,7 @@ export default function FancyCard() {
                     </View>
 
                     <Text>Vishwamta</Text>
+                    <Text>Vishwatma</Text>
 
                 </View>
             </View>
