@@ -33,6 +33,8 @@ export default function FancyCard() {
                         <Text style={styles.cardFooter}>12 mins away </Text>
                     </View>
 
+                    <Text>Vishwamta</Text>
+
                 </View>
             </View>
         </SafeAreaView>
