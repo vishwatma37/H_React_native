@@ -36,6 +36,7 @@ export default function FancyCard() {
                     <Text>Vishwamta</Text>
                     <Text>Vishwatma</Text>
                     <Text>vishwatmachaudharyAlawalpurpostmiddhaDistricballia</Text>
+                    <Text>alawalpurpostmiddhaDistricballiaUttarPradesh</Text>
 
                 </View>
             </View>
